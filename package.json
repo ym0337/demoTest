@@ -1,0 +1,19 @@
+{
+  "name": "demotest",
+  "version": "1.0.0",
+  "description": "saveDemo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ym0337/demoTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ym0337/demoTest/issues"
+  },
+  "homepage": "https://github.com/ym0337/demoTest#readme"
+}
